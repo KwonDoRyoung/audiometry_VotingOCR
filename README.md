@@ -74,8 +74,6 @@ Per module:
    → (string, confidence ∈ [0, 100])
 ```
 
-Full algorithm, parameters, and ablation matrix are documented in [paper_methodology.md](paper_methodology.md).
-
 ---
 
 ## 5. Key Contributions
